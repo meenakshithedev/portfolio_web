@@ -37,6 +37,22 @@
     border-radius: 35PX;
     opacity: 70%;
 }
+
+.logo_container{
+    display: flex;
+
+
+}
+
+.navbar h1{
+    color: white;
+    vertical-align: middle;
+    padding-top: 5px;
+}
+
+/* .myname{ color: white;
+
+} */
 .logo{
     width: 60px;
     cursor: pointer;
@@ -78,7 +94,11 @@
 .h11{
     text-align: center;
     color: rgb(46, 44, 44);
+   
 }
+/* .about_me{
+    font-size: 80;
+} */
 .h21{
     /* font-size: 1.3rem; */
     text-align: justify;
@@ -137,6 +157,10 @@
     align-items: center;
     flex-wrap: wrap; /* Allow items to wrap to the next line */
 }
+/* .product .maso-list img:nth-child(2){
+    height: 300px;
+    width: 500px;
+} */
 /* .maso-nature {
     background-color: #FEFAF6;
 } */
