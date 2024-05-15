@@ -157,6 +157,11 @@
     align-items: center;
     flex-wrap: wrap; /* Allow items to wrap to the next line */
 }
+.maso-list img:hover{
+    height: 300px;
+    width: 600px;
+    
+}
 /* .product .maso-list img:nth-child(2){
     height: 300px;
     width: 500px;
